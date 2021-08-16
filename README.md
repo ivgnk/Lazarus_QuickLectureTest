@@ -9,7 +9,7 @@ Testing students at lectures (made with Free Pascal in Lazarus IDE)
 3) Запускают программу QuickLectureTest.exe 
 
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/20105840/129618718-92a24a5b-0292-4e06-8e1e-4db11997fff1.png" width="780">
+  <img src="https://user-images.githubusercontent.com/20105840/129618718-92a24a5b-0292-4e06-8e1e-4db11997fff1.png" width="680">
 </p>
 
 4) После запуска программы необходимо ввести список студентов, а потом список вопросов. Оба файла должны иметь расширение txt.
@@ -27,7 +27,7 @@ Testing students at lectures (made with Free Pascal in Lazarus IDE)
 6) На экране высвечиваются имя студента и вопрос. Фамилии студентов и вопросы выбираются в случайном порядке из соответсвующих файлов.
 Необходимо, чтобы число вопросов было больше или равно числу студентов.
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/20105840/129618721-2c6fab99-f7e7-4f18-817a-871045bd84ea.png" width="535">
+  <img src="https://user-images.githubusercontent.com/20105840/129618721-2c6fab99-f7e7-4f18-817a-871045bd84ea.png" width="680">
 </p>
 
 7) За ответ студент получает оценку по пятибалльной системе путем нажатия соответствующих кнопок на панели задач:
@@ -51,7 +51,7 @@ Testing students at lectures (made with Free Pascal in Lazarus IDE)
 </p>
  -b) второе информационное окно со списком всех студентов и их баллов 
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/20105840/129618719-ea12c688-5d57-4e55-9f0f-97e07620a4fd.png" width="535">
+  <img src="https://user-images.githubusercontent.com/20105840/129618719-ea12c688-5d57-4e55-9f0f-97e07620a4fd.png" width="435">
 </p>
  
 10) Результаты сохраняются в файл с именем, которое состоит из имени файла вопросов, имени файла со списком студентов, постфикса res и расширения "dat".
