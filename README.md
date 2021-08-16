@@ -9,8 +9,9 @@ Testing students at lectures (made with Free Pascal in Lazarus IDE)
 3) Запускают программу QuickLectureTest.exe 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/20105840/129618718-92a24a5b-0292-4e06-8e1e-4db11997fff1.png" width="350">
+  <img src="https://user-images.githubusercontent.com/20105840/129618718-92a24a5b-0292-4e06-8e1e-4db11997fff1.png" width="550">
 </p>
+
 ![Окно_программы](https://user-images.githubusercontent.com/20105840/129618718-92a24a5b-0292-4e06-8e1e-4db11997fff1.png)
 
 4) После запуска программы необходимо ввести список студентов, а потом список вопросов. Оба файла должны иметь расширение txt.
