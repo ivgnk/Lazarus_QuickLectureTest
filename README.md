@@ -39,3 +39,8 @@ Testing students at lectures (made with Free Pascal in Lazarus IDE)
  -b) второе информационное окно со списком всех студентов и их баллов 
 10) Результаты сохраняются в файл с именем, которое состоит из имени файла вопросов, имени файла со списком студентов, постфикса res и расширения "dat".
 В случае использования примерных списков, указанных выше, имя файла будет "МагниторазведкаВопросы1-Студенты ТГР-2013 СП_res.dat"
+
+![Окно_программы](https://user-images.githubusercontent.com/20105840/129618718-92a24a5b-0292-4e06-8e1e-4db11997fff1.png)
+![Окно_результатов](https://user-images.githubusercontent.com/20105840/129618719-ea12c688-5d57-4e55-9f0f-97e07620a4fd.png)
+![Программа_работа](https://user-images.githubusercontent.com/20105840/129618721-2c6fab99-f7e7-4f18-817a-871045bd84ea.png)
+![Тестирование_окончено](https://user-images.githubusercontent.com/20105840/129618725-847f118e-987c-48db-af1f-bbc894571e71.png)
