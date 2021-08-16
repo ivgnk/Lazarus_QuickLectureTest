@@ -8,8 +8,8 @@ Testing students at lectures (made with Free Pascal in Lazarus IDE)
 2) Включают режим отображения на двух мониторах (второй монитор - проектор)
 3) Запускают программу QuickLectureTest.exe 
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/20105840/129618718-92a24a5b-0292-4e06-8e1e-4db11997fff1.png" width="550">
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/20105840/129618718-92a24a5b-0292-4e06-8e1e-4db11997fff1.png" width="640">
 </p>
 
 ![Окно_программы](https://user-images.githubusercontent.com/20105840/129618718-92a24a5b-0292-4e06-8e1e-4db11997fff1.png)
