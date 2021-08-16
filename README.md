@@ -9,7 +9,7 @@ Testing students at lectures (made with Free Pascal in Lazarus IDE)
 3) Запускают программу QuickLectureTest.exe 
 
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/20105840/129618718-92a24a5b-0292-4e06-8e1e-4db11997fff1.png" width="680">
+  <img src="https://user-images.githubusercontent.com/20105840/129618718-92a24a5b-0292-4e06-8e1e-4db11997fff1.png" width="880">
 </p>
 
 4) После запуска программы необходимо ввести список студентов, а потом список вопросов. Оба файла должны иметь расширение txt.
@@ -42,7 +42,7 @@ Testing students at lectures (made with Free Pascal in Lazarus IDE)
 9) В конце тестирования отображаются 
  -a) первое информационное окно с надписью "Тестирование окончено"
  <p align="left">
-  <img src="https://user-images.githubusercontent.com/20105840/129618725-847f118e-987c-48db-af1f-bbc894571e71.png" width="380">
+  <img src="https://user-images.githubusercontent.com/20105840/129618725-847f118e-987c-48db-af1f-bbc894571e71.png" width="362">
 </p>
  -b) второе информационное окно со списком всех студентов и их баллов 
 10) Результаты сохраняются в файл с именем, которое состоит из имени файла вопросов, имени файла со списком студентов, постфикса res и расширения "dat".
